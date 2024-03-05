@@ -1,0 +1,21 @@
+[{
+    "songs": [
+        {
+            "name": "Rain",
+            "liked": false
+        },
+        {
+            "name": "Tears",
+            "liked": true
+        },
+        {
+            "name": "Farewell",
+            "liked": false
+        },
+        {
+            "name": "Yesterday",
+            "liked": false
+        }
+    ],
+    "name": "Sad Songs"
+}]

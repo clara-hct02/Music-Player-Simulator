@@ -1,0 +1,22 @@
+[
+    {
+        "songs": [
+            {
+                "name": "Over the Rainbow",
+                "liked": false
+            },
+            {
+                "name": "Speechless",
+                "liked": true
+            }
+        ],
+        "name": "My playlist"
+    },
+    {
+        "songs": [{
+            "name": "Hello",
+            "liked": false
+        }],
+        "name": "Playlist1"
+    }
+]

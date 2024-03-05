@@ -1,0 +1,22 @@
+[
+  {
+    "songs": [
+      {
+        "name": "AAA",
+        "liked": false
+      },
+      {
+        "name": "AAAA",
+        "liked": true
+      }
+    ],
+    "name": "A"
+  },
+  {
+    "songs": [{
+      "name": "BBB",
+      "liked": false
+    }],
+    "name": "B"
+  }
+]
