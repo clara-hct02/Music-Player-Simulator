@@ -1,4 +1,5 @@
 ## Music Player Simulator
+View the demo [here](https://youtu.be/G2-5XmbG0UY)
 ## What will the application do?
 The application will simulate the behaviour of a music player.
 
